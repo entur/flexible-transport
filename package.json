@@ -52,7 +52,7 @@
     "axios": "0.21.1",
     "check-node-version": "4.1.0",
     "classnames": "2.3.1",
-    "cross-env": "5.2.1",
+    "cross-env": "7.0.3",
     "date-fns": "2.22.1",
     "duration-fns": "2.1.0",
     "enzyme": "3.11.0",
