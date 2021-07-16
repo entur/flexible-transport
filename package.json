@@ -18,7 +18,7 @@
     "@entur/alert": "0.7.15",
     "@entur/auth-provider": "^0.4.0",
     "@entur/button": "2.3.6",
-    "@entur/chip": "0.3.37",
+    "@entur/chip": "0.4.12",
     "@entur/datepicker": "0.8.5",
     "@entur/dropdown": "1.4.7",
     "@entur/expand": "3.3.0",
